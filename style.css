@@ -1,0 +1,42 @@
+body{
+margin: 0;
+}
+.post{
+    display: flex;
+    flex-direction: column;
+    width: 768px;
+    margin:auto;
+.post-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+img{
+    width: 100%;
+}
+.header-izq{
+    display: flex;
+    flex-direction: row; 
+}
+.icons-header{
+    font-size: 35px;
+}
+.name_usuario{
+    display: flex;
+    flex-direction: column;
+}
+.name_usuario p{
+    margin: 0;
+}
+.post-icons{
+   display: flex;
+   justify-content: space-between; 
+}
+.post-body{
+    padding: 15px;
+}
+.contenido{
+    text-align: justify;
+}
