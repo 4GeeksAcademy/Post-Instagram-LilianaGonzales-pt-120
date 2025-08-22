@@ -6,6 +6,9 @@ margin: 0;
     flex-direction: column;
     width: 768px;
     margin:auto;
+    border: 3px solid rgb(216 209 209);
+    margin-top: 84px;
+    margin-bottom: 84px;
 .post-header{
     display: flex;
     flex-direction: row;
